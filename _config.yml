@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "farhansaad.github.io" # the subpath of your site, e.g. /blog/
 url: "farhansaad.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username: 
+twitter_username: "@fsa787"
+github_username: "farhansaad"
 
 # Build settings
 markdown: kramdown
